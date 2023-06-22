@@ -22,7 +22,7 @@
 <a href="https://stackoverflow.com/users/18024742/ayat-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18024742/ayat-rahman" height="30" width="40" /></a>
 <a href="https://fb.com/ayat.jkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayat.jkr" height="30" width="40" /></a>
 <a href="https://instagram.com/daweird_one" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daweird_one" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uckyfc0j3wlfedmgnmbgpmhw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckyfc0j3wlfedmgnmbgpmhw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCKyFc0j3WlfEDMGnMbgpmhw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckyfc0j3wlfedmgnmbgpmhw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
