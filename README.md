@@ -6,15 +6,14 @@
 </p>
 
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **MERN, Javascript**
+- 💬 Ask me about **MERN, Javascript, NextJS**
 
 - 📫 How to reach me **ayat.dihan6593@gmail.com**
 
 - 📄 Checkout my Resume [https://drive.google.com/file/d/1PW7vBUPTWK-0p36u8T8P0gEf-VnaufyI/view?usp=sharing](https://drive.google.com/file/d/1PW7vBUPTWK-0p36u8T8P0gEf-VnaufyI/view?usp=sharing)
 
-- ⚡ Fun fact **JavaScript powers the MERN stack.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
